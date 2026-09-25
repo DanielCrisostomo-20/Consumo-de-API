@@ -2,9 +2,6 @@
 
 ## Integrantes
 
-- Nome do integrante: **Preencha com seu nome**
-- Nome do integrante 2: **Preencha se a atividade for em dupla**
-
 ## API escolhida
 
 A aplicacao utiliza a **PokeAPI**, uma API publica que fornece dados sobre Pokemon sem necessidade de chave de acesso.
