@@ -1,7 +1,5 @@
 # Atividade de Consumo de API com Dart
 
-## Integrantes
-
 ## API escolhida
 
 A aplicacao utiliza a **PokeAPI**, uma API publica que fornece dados sobre Pokemon sem necessidade de chave de acesso.
